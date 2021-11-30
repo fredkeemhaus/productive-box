@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: 31711429922179aa983c66ab2f035d7c
+          GIST_ID: https://gist.github.com/fredkeemhaus/4a94411808967cd59e4d38e393d08c5f
           TIMEZONE: Asia/Seoul
